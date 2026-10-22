@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary
+*.emp binary
+*.vin binary
+*.dsf binary
+*.net text

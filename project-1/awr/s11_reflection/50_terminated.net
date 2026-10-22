@@ -1,0 +1,9 @@
+DIM
+    LNG  UM
+    RES  OH
+
+CKT
+MLIN 1 2 ID="TL1" W=1000 L=30000
+RES 2 0 ID="R1" R=50
+PORT 1 P=1 Z=50
+DEF0P "50_terminated"
